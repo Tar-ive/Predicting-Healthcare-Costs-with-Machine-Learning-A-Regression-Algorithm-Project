@@ -21,4 +21,4 @@ Next, we explored other machine learning models to improve the accuracy of our p
 
 Conclusion:
 
-In this project, we explored machine learning techniques to predict diabetes in patients. We achieved an accuracy of XX% using logistic regression, XX% using Random Forest, and XX% using a neural network. Our results show that machine learning models can be a useful tool for early detection and management of diabetes. The code for this project is available on Github, and we encourage others to use and build upon our work.
+In this project, we explored machine learning techniques to predict diabetes in patients. We achieved an accuracy of XX% using logistic regression, 77% using Random Forest, and 81% using a neural network. Our results show that machine learning models can be a useful tool for early detection and management of diabetes. The code for this project is available on Github, and we encourage others to use and build upon our work.
